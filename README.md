@@ -1,11 +1,10 @@
 # 💫 About Me:
 
-🔭 I’m currently working on<br>
+🔭 I’m currently working on Javascript<br>
 👯 I’m looking to collaborate with developer community <br>
-🌱 I’m currently learning Javascript<br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently learning Javascript<br>💬 
 🤝 I’m looking for help with Javascript, ReactJs<br>
 🌱 I’m currently learning Javascript<br>
-💬 Ask me about<br>⚡ Fun fact
 
 ## 🌐 Socials:
 
