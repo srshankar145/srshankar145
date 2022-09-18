@@ -4,7 +4,6 @@
 👯 I’m looking to collaborate with developer community <br>
 🌱 I’m currently learning Javascript<br>💬 
 🤝 I’m looking for help with Javascript, ReactJs<br>
-🌱 I’m currently learning Javascript<br>
 
 ## 🌐 Socials:
 
