@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Javascript<br>
 👯 I’m looking to collaborate with developer community <br>
 🌱 I’m currently learning Javascript<br>💬 
 🤝 I’m looking for help with Javascript, ReactJs<br>
