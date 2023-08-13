@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=srshankar145&hide=stars,prs&show_icons=true&theme=date_night))   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srshankar145&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  <br/>
+![](https://github-readme-stats.vercel.app/api?username=srshankar145&hide=stars,prs&show_icons=true&theme=date_night)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srshankar145&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srshankar145&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
